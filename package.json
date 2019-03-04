@@ -1,0 +1,32 @@
+{
+    "name": "fcc-file-metadata",
+    "version": "0.0.1",
+    "description": "File Metadata API project for freeCodeCamp",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.1",
+        "dotenv": "^6.2.0",
+        "express": "^5.0.0-alpha.2",
+        "multer": "^1.4.1"
+    },
+    "engines": {
+        "node": "4.4.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skaparate/fcc-file-metadata"
+    },
+    "keywords": [
+        "node",
+        "hyperdev",
+        "express"
+    ],
+    "bugs": {
+        "url": "https://github.com/skaparate/fcc-file-metadata/issues"
+    },
+    "homepage": "https://github.com/skaparate/fcc-file-metadata#readme",
+    "license": "GNU-3.0"
+}
